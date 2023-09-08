@@ -16,7 +16,7 @@ Users should be able to:
 - filter products
 - add products to cart
 
-### Screenshot
+### Screenshots
 
 ![](./screenshot.png)
 ![](./screenshot2.png)
