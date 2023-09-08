@@ -29,6 +29,7 @@ Users should be able to:
 ### Built with
 
 - react js
+- HTML
 - CSS custom properties
 - tailwind css
 - Desktop-first workflow
