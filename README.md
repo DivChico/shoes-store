@@ -18,7 +18,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.PNG)
+![](./screenshot.png)
+![](./screenshot2.png)
+![](./screenshot3.png)
+
 
 
 
