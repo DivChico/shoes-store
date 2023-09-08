@@ -19,8 +19,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.PNG)
-![](./screenshot2.PNG)
-![](./screenshot3.PNG)
+
 
 ### Built with
 
