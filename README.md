@@ -1,7 +1,7 @@
 # shoes store
 
 marketing website for a shoes store
-- Website - [shoes store]( https://divchico.github.io/shoes-store/)
+- Website - [https://divchico.github.io/shoes-store/]( https://divchico.github.io/shoes-store/)
 
 ## Table of contents
 
