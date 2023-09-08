@@ -5,7 +5,7 @@ marketing website for a shoes store
 ## Table of contents
 
 - [What the app dose](#What-the-app-dose)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Built with](#built-with)
 - [Author](#author)
 
@@ -18,7 +18,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.PNG)
+(./screenshot.PNG)
+(./screenshot2.PNG)
+(./screenshot3.PNG)
+
 
 
 ### Built with
